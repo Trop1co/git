@@ -1,0 +1,11 @@
+C:\Users\tropi\source\repos\UNITtest\Area\bin\Debug\net6.0\Area.deps.json
+C:\Users\tropi\source\repos\UNITtest\Area\bin\Debug\net6.0\Area.dll
+C:\Users\tropi\source\repos\UNITtest\Area\bin\Debug\net6.0\Area.pdb
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\Area.dll
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\refint\Area.dll
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\Area.pdb
+C:\Users\tropi\source\repos\UNITtest\Area\obj\Debug\net6.0\ref\Area.dll

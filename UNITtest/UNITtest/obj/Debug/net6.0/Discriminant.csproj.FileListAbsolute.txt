@@ -1,0 +1,11 @@
+C:\Users\tropi\source\repos\UNITtest\UNITtest\bin\Debug\net6.0\Discriminant.deps.json
+C:\Users\tropi\source\repos\UNITtest\UNITtest\bin\Debug\net6.0\Discriminant.dll
+C:\Users\tropi\source\repos\UNITtest\UNITtest\bin\Debug\net6.0\Discriminant.pdb
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\Discriminant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\Discriminant.AssemblyInfoInputs.cache
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\Discriminant.AssemblyInfo.cs
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\Discriminant.csproj.CoreCompileInputs.cache
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\Discriminant.dll
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\refint\Discriminant.dll
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\Discriminant.pdb
+C:\Users\tropi\source\repos\UNITtest\UNITtest\obj\Debug\net6.0\ref\Discriminant.dll
